@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import './App.css';
+import React from 'react';
 
-function App() {
+const Home = () => {
 	return (
 		<div className='container'>
 			<div className='hamburger-menu'>
@@ -56,6 +56,6 @@ function App() {
 			</section>
 		</div>
 	);
-}
+};
 
-export default App;
+export default Home;
