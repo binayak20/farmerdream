@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.a8103dc1.chunk.css",
-    "main.js": "/react-deploy/static/js/main.4d00897b.chunk.js",
-    "main.js.map": "/react-deploy/static/js/main.4d00897b.chunk.js.map",
-    "runtime-main.js": "/react-deploy/static/js/runtime-main.9b57ecdc.js",
-    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.9b57ecdc.js.map",
-    "static/js/2.5aa86a25.chunk.js": "/react-deploy/static/js/2.5aa86a25.chunk.js",
-    "static/js/2.5aa86a25.chunk.js.map": "/react-deploy/static/js/2.5aa86a25.chunk.js.map",
-    "static/js/3.1e1ac83c.chunk.js": "/react-deploy/static/js/3.1e1ac83c.chunk.js",
-    "static/js/3.1e1ac83c.chunk.js.map": "/react-deploy/static/js/3.1e1ac83c.chunk.js.map",
-    "index.html": "/react-deploy/index.html",
-    "static/css/main.a8103dc1.chunk.css.map": "/react-deploy/static/css/main.a8103dc1.chunk.css.map",
-    "static/js/2.5aa86a25.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.5aa86a25.chunk.js.LICENSE.txt"
+    "main.css": "/farmerdream/static/css/main.a8103dc1.chunk.css",
+    "main.js": "/farmerdream/static/js/main.4d00897b.chunk.js",
+    "main.js.map": "/farmerdream/static/js/main.4d00897b.chunk.js.map",
+    "runtime-main.js": "/farmerdream/static/js/runtime-main.c75a3729.js",
+    "runtime-main.js.map": "/farmerdream/static/js/runtime-main.c75a3729.js.map",
+    "static/js/2.5aa86a25.chunk.js": "/farmerdream/static/js/2.5aa86a25.chunk.js",
+    "static/js/2.5aa86a25.chunk.js.map": "/farmerdream/static/js/2.5aa86a25.chunk.js.map",
+    "static/js/3.1e1ac83c.chunk.js": "/farmerdream/static/js/3.1e1ac83c.chunk.js",
+    "static/js/3.1e1ac83c.chunk.js.map": "/farmerdream/static/js/3.1e1ac83c.chunk.js.map",
+    "index.html": "/farmerdream/index.html",
+    "static/css/main.a8103dc1.chunk.css.map": "/farmerdream/static/css/main.a8103dc1.chunk.css.map",
+    "static/js/2.5aa86a25.chunk.js.LICENSE.txt": "/farmerdream/static/js/2.5aa86a25.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b57ecdc.js",
+    "static/js/runtime-main.c75a3729.js",
     "static/js/2.5aa86a25.chunk.js",
     "static/css/main.a8103dc1.chunk.css",
     "static/js/main.4d00897b.chunk.js"
